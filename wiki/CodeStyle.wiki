@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+The project's code style will follow google-styleguide.
 
 
 = Details =
